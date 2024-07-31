@@ -155,7 +155,7 @@ module.exports = {
 
     // Code Smell Detection
     "sonarjs/no-collapsible-if": "error",
-    "sonarjs/no-duplicate-string": ["error", 3],
+    "sonarjs/no-duplicate-string": "error",
     "sonarjs/no-duplicated-branches": "error",
     "sonarjs/no-identical-functions": "error",
     "sonarjs/no-inverted-boolean-check": "error",
